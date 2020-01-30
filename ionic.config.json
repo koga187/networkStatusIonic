@@ -1,5 +1,7 @@
 {
   "name": "ionic_network_test",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
